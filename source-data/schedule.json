@@ -1,0 +1,57 @@
+[
+  {
+    "record": "schedule-1",
+    "availableFrom": 1,
+    "kind": "screening",
+    "payload": {
+      "show": "VW01",
+      "site": "谷馆",
+      "cut": "C-A",
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "time": "16:00"
+    }
+  },
+  {
+    "record": "schedule-2",
+    "availableFrom": 1,
+    "kind": "screening",
+    "payload": {
+      "show": "VW02",
+      "site": "仓馆",
+      "cut": "C-A",
+      "languages": [
+        "en"
+      ],
+      "time": "17:00"
+    }
+  },
+  {
+    "record": "schedule-3",
+    "availableFrom": 2,
+    "kind": "pickup",
+    "payload": {
+      "show": "VW01",
+      "cut": "C-A",
+      "receipt": "QP7",
+      "time": "13:00"
+    }
+  },
+  {
+    "record": "schedule-4",
+    "availableFrom": 3,
+    "kind": "screening",
+    "payload": {
+      "show": "VW01",
+      "site": "谷馆",
+      "cut": "C-B",
+      "languages": [
+        "zh",
+        "en"
+      ],
+      "time": "16:00"
+    }
+  }
+]

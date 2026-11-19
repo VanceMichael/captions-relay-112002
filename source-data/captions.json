@@ -1,0 +1,107 @@
+[
+  {
+    "record": "captions-1",
+    "availableFrom": 1,
+    "kind": "caption",
+    "payload": {
+      "id": "H1",
+      "lang": "zh",
+      "clip": "INT-A",
+      "from": 1600,
+      "to": 4900,
+      "text": "河谷冬季关闭。六月恢复开放。",
+      "splits": [
+        [
+          4500,
+          "河谷冬季关闭。",
+          "六月恢复开放。"
+        ]
+      ],
+      "grant": "G1"
+    }
+  },
+  {
+    "record": "captions-2",
+    "availableFrom": 1,
+    "kind": "caption",
+    "payload": {
+      "id": "E7",
+      "lang": "en",
+      "clip": "INT-A",
+      "from": 1600,
+      "to": 4800,
+      "text": "Winter closing. Reopens in June.",
+      "splits": [],
+      "grant": "G2"
+    }
+  },
+  {
+    "record": "captions-6",
+    "availableFrom": 1,
+    "kind": "grant",
+    "payload": {
+      "id": "G1",
+      "shows": [
+        "VW01"
+      ],
+      "lang": "zh"
+    }
+  },
+  {
+    "record": "captions-7",
+    "availableFrom": 1,
+    "kind": "grant",
+    "payload": {
+      "id": "G2",
+      "shows": [
+        "VW01",
+        "VW02"
+      ],
+      "lang": "en"
+    }
+  },
+  {
+    "record": "captions-3",
+    "availableFrom": 2,
+    "kind": "caption",
+    "payload": {
+      "id": "E8",
+      "lang": "en",
+      "clip": "INT-B",
+      "from": 500,
+      "to": 2600,
+      "text": "Below the ridge.",
+      "grant": "G2"
+    }
+  },
+  {
+    "record": "captions-4",
+    "availableFrom": 3,
+    "kind": "withdraw",
+    "payload": {
+      "id": "H1",
+      "range": [
+        4100,
+        4900
+      ],
+      "revision": 2
+    }
+  },
+  {
+    "record": "captions-5",
+    "availableFrom": 4,
+    "kind": "caption",
+    "payload": {
+      "id": "H3",
+      "lang": "zh",
+      "clip": "INT-A",
+      "from": 3900,
+      "to": 5000,
+      "text": "私下说明",
+      "publicDenied": [
+        "VW01"
+      ],
+      "revision": 3
+    }
+  }
+]

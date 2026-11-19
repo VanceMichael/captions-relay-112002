@@ -1,0 +1,58 @@
+[
+  {
+    "record": "editing-1",
+    "availableFrom": 1,
+    "kind": "cut",
+    "payload": {
+      "cut": "C-A",
+      "clips": [
+        [
+          "INT-A",
+          1000,
+          5100,
+          0
+        ],
+        [
+          "INT-B",
+          0,
+          3000,
+          4100
+        ],
+        [
+          "INT-A",
+          3900,
+          5100,
+          7100
+        ]
+      ]
+    }
+  },
+  {
+    "record": "editing-2",
+    "availableFrom": 3,
+    "kind": "cut",
+    "payload": {
+      "cut": "C-B",
+      "clips": [
+        [
+          "INT-B",
+          0,
+          3000,
+          0
+        ],
+        [
+          "INT-A",
+          1000,
+          4500,
+          3000
+        ],
+        [
+          "INT-A",
+          4600,
+          5100,
+          6500
+        ]
+      ]
+    }
+  }
+]
